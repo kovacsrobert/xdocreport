@@ -254,9 +254,9 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:https://github.com/opensagres/xdocreport.git</connection>
-		<developerConnection>scm:git:https://github.com/opensagres/xdocreport.git</developerConnection>
-		<url>https://github.com/opensagres/xdocreport/</url>
+		<connection>scm:git:https://github.com/kovacsrobert/xdocreport.git</connection>
+		<developerConnection>scm:git:https://github.com/kovacsrobert/xdocreport.git</developerConnection>
+		<url>https://github.com/kovacsrobert/xdocreport</url>
 		<tag>HEAD</tag>
 	</scm>
 	<modules>
